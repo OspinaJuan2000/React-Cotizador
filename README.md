@@ -11,6 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 # Probar el proyecto:
 
-## https://stoic-keller-28db56.netlify.app/
+## https://clever-panini-c814d5.netlify.app/
 
 ## https://ospinajuan2000.github.io/React-Cotizador/
